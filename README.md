@@ -14,8 +14,8 @@ div,table,tbody,thead,tr,td {
 [KMS Activator v6](https://e.pcloud.link/publink/show?code=XZTRAIZBYS7Fv3mTGpe7qUnzbvv0LzrFYcX)
 
 
-<div>
-<table>
+<div align=left>
+<table align=center>
     <thead>
         <tr>
             <th>HotspotShield v12.9.7</th>
