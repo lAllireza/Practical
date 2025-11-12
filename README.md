@@ -1,8 +1,8 @@
 ## Programs
 <style>
-tr,td {
-  align: center;
-}
+  tr,td {
+    align: center;
+  }
 </style>
 
 
