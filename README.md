@@ -17,7 +17,7 @@
     <thead align=center>
         <tr>
             <th>HotspotShield v12.9.7</th>
-            <th>Download</th>
+            <th>Deep Freeze Standard v8.71.020.5734</th>
         </tr>
     </thead>
     <tbody align=center>
@@ -25,6 +25,10 @@
             <td>
                 <a href="https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7"><img src="https://img.shields.io/badge/Download-5a5a5a.svg"></a>
             </td>
+            <td>
+                <a href="https://e.pcloud.link/publink/show?code=XZf4AIZ3Y2vSoPgFdXK6TeEvp1YGbc4pQdV"><img src="https://img.shields.io/badge/Download-5a5a5a.svg"></a> 
+            </td>
+
         </tr>
         <tr>
         <td>Android</td>
