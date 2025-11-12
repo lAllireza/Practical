@@ -1,5 +1,5 @@
 div,table,tbody,thead,tr,td {
-    text-align=center;
+    align=center;
 }
 
 ## Programs
