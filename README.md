@@ -1,4 +1,4 @@
-tbody,thead,tr,td {
+div,table,tbody,thead,tr,td {
     text-align=center;
 }
 
