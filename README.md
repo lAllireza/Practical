@@ -1,5 +1,5 @@
 div,table,tbody,thead,tr,td {
-    align=right;
+    align=left;
 }
 
 ## Programs
