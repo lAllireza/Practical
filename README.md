@@ -1,6 +1,6 @@
 ## Programs
-<div align=center>
-    <table align=center>
+<div align=left>
+    <table align=left>
             <tr>
                 <th>HotspotShield v12.9.7</th>
                 <th>Deep Freeze Standard v8.71.020.5734</th>
