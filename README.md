@@ -1,8 +1,3 @@
-<style>
-tr,td {
-  align: center;
-}
-</style>
 ## Programs
 
 <div align=left>
