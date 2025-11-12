@@ -1,10 +1,9 @@
-## Programs
 <style>
-  tr,td {
-    align: center;
-  }
+tr,td {
+  align: center;
+}
 </style>
-
+## Programs
 
 <div align=left>
     <table align=left>
