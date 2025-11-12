@@ -20,7 +20,7 @@
     </thead>
     <tbody align=left>
         <tr>
-            <td>
+            <td  align=left>
                 <a href="https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7"><img src="https://img.shields.io/badge/Download-5a5a5a.svg"></a>
             </td>
         </tr>
