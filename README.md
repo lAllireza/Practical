@@ -1,6 +1,4 @@
-div,table,tbody,thead,tr,td {
-    align=left;
-}
+
 
 ## Programs
 [HotspotShield v12.9.7](https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7)
