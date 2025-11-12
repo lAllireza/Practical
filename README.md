@@ -1,5 +1,5 @@
 ## Programs
-<div align=left>
+<div align=center>
     <table align=center>
             <tr>
                 <th>HotspotShield v12.9.7</th>
