@@ -1,5 +1,5 @@
 tbody,thead,tr,td {
-    align=center
+    align=center;
 }
 
 ## Programs
