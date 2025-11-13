@@ -3,8 +3,8 @@
 <div align=left>
     <table align=left>
             <tr align=center>
-                <th>HotspotShield v12.9.7</th>
-                <th>Deep Freeze Standard v8.71.020.5734</th>
+                <th>HotspotShield</th>
+                <th>Deep Freeze Standard</th>
             </tr>
             <tr align=center>
                 <td>
@@ -15,8 +15,8 @@
                 </td>
             </tr>        
             <tr align=center>
-                <th>Defender Remover v12.8.4</th>
-                <th>KMS Activator v6</th>
+                <th>Defender Remover</th>
+                <th>KMS Activator</th>
             </tr>
             <tr align=center>
                 <td>
@@ -27,7 +27,7 @@
                 </td>                
             </tr>        
             <tr align=center>
-                <th>384 Font Farsi</th> 
+                <th>Font Farsi</th> 
                 <th>V2ray</th>                
             </tr>
             <tr align=center>
