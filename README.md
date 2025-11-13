@@ -1,4 +1,4 @@
-<div align=center> ## Programs </div>
+## Programs
 
 <div align=left>
     <table align=left>
