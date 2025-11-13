@@ -39,10 +39,7 @@
 
 <div align=right>
     <table align=right>
-            <tr align=center>
-                <th>Notepad(Proton)</th>
-                <td><a href="https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a> 
-</td>
-            </tr>
+        <tr align=center><th>Notepad(Proton)</th></tr>
+        <tr><th><a href="https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a></th></tr>
     </table>
 </div>
