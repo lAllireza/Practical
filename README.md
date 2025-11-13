@@ -31,7 +31,7 @@
             </tr>
             <tr align=center>
                 <td>
-                    <a href="https://e.pcloud.link/publink/show?code=XZs4AIZN7NEVkAbIvk9FpHizh2v0VF2bdVk"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a> 
+                    <a href="https://e.pcloud.link/publink/show?code=XZs4AIZN7NEVkAbIvk9FpHizh2v0VF2bdVk"><img src="https://img.shields.io/badge/Download-Windows-0078d7.svg"></a> 
                 </td>                
             </tr>
     </table>
@@ -41,7 +41,8 @@
     <table align=right>
             <tr align=center>
                 <th>Notepad(Proton)</th>
-                <td><a href="[https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7](https://docs.proton.me/doc?mode=open-url&token=1ZTSHDQMZM#lJJB9QAyhFnG)"><img src="https://img.shields.io/badge/Download-Windows-0078d7.svg"></a></td>
+                <td><a href="https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a> 
+</td>
             </tr>
     </table>
 </div>
