@@ -8,7 +8,7 @@
             </tr>
             <tr align=center>
                 <td>
-                    <a href="https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7"><img src="https://[img.shields.io/badge/Download-Windows-0078d7.svg](https://img.shields.io/badge/Notepad-Proton-704cff.svg)"></a>
+                    <a href="https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7"><img src="https://[img.shields.io/badge/Download-Windows-0078d7.svg]"></a>
                 </td>
                 <td>
                     <a href="https://e.pcloud.link/publink/show?code=XZf4AIZ3Y2vSoPgFdXK6TeEvp1YGbc4pQdV"><img src="https://img.shields.io/badge/Download-Windows-0078d7.svg"></a> 
@@ -31,7 +31,7 @@
             </tr>
             <tr align=center>
                 <td>
-                    <a href="https://e.pcloud.link/publink/show?code=XZs4AIZN7NEVkAbIvk9FpHizh2v0VF2bdVk"><img src="https://img.shields.io/badge/Download-Windows-0078d7.svg"></a> 
+                    <a href="https://e.pcloud.link/publink/show?code=XZs4AIZN7NEVkAbIvk9FpHizh2v0VF2bdVk"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a> 
                 </td>                
             </tr>
     </table>
