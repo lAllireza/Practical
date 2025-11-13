@@ -1,7 +1,7 @@
 ## Programs
 
-<div align=left>
-    <table align=left>
+<div align=center>
+    <table align=center>
             <tr align=center>
                 <th>HotspotShield</th>
                 <th>Deep Freeze Standard</th>
@@ -42,8 +42,8 @@
 </div>
 
 
-<div align=right>
-    <table align=right>
+<div align=center>
+    <table align=center>
         <tr align=center><th>Notepads</th></tr>
         <tr><th><a href="https://www.dropbox.com/scl/fi/frgnp421m1xbmtoldcny5/Notepad.txt?rlkey=4ockut88djvqovip6rmeq6g2j&e=1&dl=0"><img src="https://img.shields.io/badge/Notepad-Dropbox-0061fe.svg"></a></th></tr>
         <tr><th><a href="https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a></th></tr>
