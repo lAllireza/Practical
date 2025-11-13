@@ -52,7 +52,7 @@
 </div>
 
 
-##  DNS:
+##  DNS
 <div align=center>
 8.8.8.8 - 4.2.2.4
 
