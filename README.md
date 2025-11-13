@@ -45,8 +45,6 @@
 <div align=right>
     <table align=right>
         <tr align=center><th>Notepads</th></tr>
-        
-        <tr><th><a href="[https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG](https://www.dropbox.com/scl/fi/frgnp421m1xbmtoldcny5/Notepad.txt?rlkey=4ockut88djvqovip6rmeq6g2j&e=1&dl=0)"><img src="https://img.shields.io/badge/Notepad-Dropbox-0061fe.svg"></a></th></tr>
         <tr><th><a href="https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a></th></tr>
         <tr><th><a href="[https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG](https://onedrive.live.com/personal/749ceabc1295a513/_layouts/15/Doc.aspx?sourcedoc=%7B83ef588c-8af2-40bd-8675-7dccc8cf4a30%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy83NDljZWFiYzEyOTVhNTEzL0VZeFk3NFB5aXIxQWhuVjl6TWpQU2pBQkJEQUVXZ0tBTkpjWnZieGdiaWxkTGc&slrid=28fdd8a1-e019-a000-8a02-c515db123cef&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy83NDljZWFiYzEyOTVhNTEzL0VZeFk3NFB5aXIxQWhuVjl6TWpQU2pBQkJEQUVXZ0tBTkpjWnZieGdiaWxkTGc_cnRpbWU9ajhnUEQ4SWkza2c&CID=c696e031-6681-4d15-b186-6a7076c06d3e&_SRM=0:G:81)"><img src="https://img.shields.io/badge/Notepad-Word-0c48de.svg"></a></th></tr>
     </table>
