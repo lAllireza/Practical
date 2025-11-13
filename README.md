@@ -1,24 +1,4 @@
 ## Programs
-<div align=left>
-##DNS:
-8.8.8.8
-4.2.2.4
-
-1.1.1.1
-1.0.0.1
-
-78.157.42.100
-78.157.42.101
-
-10.202.10.10
-10.202.10.11
-
-8.8.8.8
-1.1.1.1
-
-178.22.122.100
-185.51.200.2
-</div>
 
 <div align=center>
     <table align=center>
@@ -69,4 +49,25 @@
         <tr><th><a href="https://drive.proton.me/urls/1ZTSHDQMZM#lJJB9QAyhFnG"><img src="https://img.shields.io/badge/Notepad-Proton-704cff.svg"></a></th></tr>
         <tr><th><a href="https://onedrive.live.com/personal/749ceabc1295a513/_layouts/15/Doc.aspx?sourcedoc=%7B83ef588c-8af2-40bd-8675-7dccc8cf4a30%7D&action=default&redeem=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy83NDljZWFiYzEyOTVhNTEzL0VZeFk3NFB5aXIxQWhuVjl6TWpQU2pBQkJEQUVXZ0tBTkpjWnZieGdiaWxkTGc&slrid=28fdd8a1-e019-a000-8a02-c515db123cef&originalPath=aHR0cHM6Ly8xZHJ2Lm1zL3cvYy83NDljZWFiYzEyOTVhNTEzL0VZeFk3NFB5aXIxQWhuVjl6TWpQU2pBQkJEQUVXZ0tBTkpjWnZieGdiaWxkTGc_cnRpbWU9ajhnUEQ4SWkza2c&CID=c696e031-6681-4d15-b186-6a7076c06d3e&_SRM=0:G:81"><img src="https://img.shields.io/badge/Notepad-Word-0c48de.svg"></a></th></tr>
     </table>
+</div>
+
+<div align=left>
+##  DNS:
+8.8.8.8
+4.2.2.4
+
+1.1.1.1
+1.0.0.1
+
+78.157.42.100
+78.157.42.101
+
+10.202.10.10
+10.202.10.11
+
+8.8.8.8
+1.1.1.1
+
+178.22.122.100
+185.51.200.2
 </div>
